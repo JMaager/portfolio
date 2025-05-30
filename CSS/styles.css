@@ -1,0 +1,22 @@
+body {
+    background-color: #2d2d2d;
+    color: white;
+}
+.container {
+    background-color: #3a3a3a;
+}
+.about-me {
+    border-radius: 20px;
+    padding: 1rem;
+}
+.about-ul {
+    font-size: x-large;
+    list-style-type: none;
+}
+.about-ul li {
+    font-size: medium;
+}
+.about-me p {
+    font-size: medium;
+    padding-left: 2.5rem;
+}
