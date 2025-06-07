@@ -18,3 +18,7 @@ These are the projects listed in the portfolio:
 
 - HTML
 - CSS
+
+## Acknowledgments
+
+* Noroff Front-End Development Course
