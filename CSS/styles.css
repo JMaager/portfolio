@@ -158,3 +158,33 @@ h2 {
     margin: 3rem;
     margin-top: 5rem;
 }
+
+@media (max-width: 1200px) {
+    .project-img {
+        display: none;
+    }
+    .project-content {
+        position: relative;
+    }
+    .about-me {
+        display: flex;
+        flex-direction: column;
+    }
+    .about-me img {
+        max-width: 350px;
+    }
+    .contact-links {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 0;
+        font-size: small;
+    }
+    .footer-text {
+        text-align: center;
+    }
+    h1 {
+        text-align: center;
+        padding-top: 1rem;
+    }
+}
